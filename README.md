@@ -1,4 +1,13 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Niranjana%20M%20R&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=IT%20Student%20%7C%20Software%20Developer%20%7C%20Flutter%20Lead%20%40%20GDG&descAlignY=62&descSize=16" width="100%"/>
+NIRANJANA M R
+Information Technology Student — Software Developer
+Dindigul, Tamil Nadu
+9363641657 — mrniranjana.it@gmail.com — GitHub — LinkedIn — LeetCode
+Summary
+B.Tech IT student skilled in Java, DSA, DBMS, and Web Development. Quick learner with internship, project, and leadership
+experience. Strong communication, teamwork, and problem-solving abilities with adaptability to fast-paced environments.
+Education
+PSNA College of Engineering and Technology 2022 – 2026
+B.Tech Information Technology CGPA<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Niranjana%20M%20R&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=IT%20Student%20%7C%20Software%20Developer%20%7C%20Flutter%20Lead%20%40%20GDG&descAlignY=62&descSize=16" width="100%"/>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Niranjana+%F0%9F%91%8B;B.Tech+IT+Student+%7C+CGPA+8.53;Java+%2B+DSA+%2B+Web+Dev+Enthusiast;Flutter+Lead+%40+GDG+on+Campus+PSNACET;Building+AI-Powered+Real-World+Solutions" alt="Typing SVG"/>
@@ -216,7 +225,7 @@ public class Niranjana {
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-mrniranjana.it%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mrniranjana.it@gmail.com)
-[![LinkedIn](https://www.linkedin.com/in/niranjana-m-r-791936294?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Niranjana%20M%20R-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/niranjana-m-r)
 [![LeetCode](https://img.shields.io/badge/LeetCode-250%2B%20Problems-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/mrniranjana)
 [![GitHub](https://img.shields.io/badge/GitHub-mrniranjana-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mrniranjana)
 
@@ -225,3 +234,38 @@ public class Niranjana {
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+: 8.53
+Technical Skills
+Languages: Java, C, C++, SQL, JavaScript
+Web & Backend: Node.js, Express.js, REST APIs, HTML, CSS
+Database/Tools: MongoDB, MySQL, Git, GitHub, Postman, Figma
+Core Concepts: DSA, OOP, DBMS, OS, Computer Networks
+Additional: Flutter, Firebase, AWS Basics, Google Cloud Basics
+Projects
+DevCollab – Developer Collaboration Platform 2025
+Built a smart collaboration platform with AI-assisted workflow, project coordination, and team management features.
+Raseed – AI Financial Assistant 2025
+Developed an AI-powered expense tracking system providing personalized financial insights and smart categorization.
+Women Safety Monitoring System 2025
+Designed a women safety solution with emergency alert mechanisms and environmental monitoring features.
+College Event Management Platform 2024
+Developed a web-based platform for streamlined event registration and student coordination activities.
+Internships
+CodSoft – UI/UX Design Intern Jul 2024 – Aug 2024
+Designed responsive UI prototypes and improved user experience workflows.
+Octanet – Web Development Intern Mar 2024 – Apr 2024
+Worked on frontend development and backend integration while collaborating within project teams.
+Achievements
+• First Prize – Paper Presentation, RAGEX’25 (ROBO Club, ECE Department)
+• Winner – AI Prompt Competition conducted by Government of Tamil Nadu (INR 4,000 Prize)
+• Smart India Hackathon 2024 & SIH 2025 – Internal Round Participant and Internal Hackathon Winner
+• Solved 250+ coding problems on LeetCode and CodeChef
+• Active participant in technical workshops, coding events, and hackathons
+Leadership & Responsibilities
+• Flutter Lead – GDG on Campus PSNACET
+• Secretary – Math Club, PSNACET
+• Coordinator – BIS Student Chapter
+• Coordinator – Tamil Club, PSNACET
+• GDG Hackathon Coordinator
+Soft Skills
+Communication • Teamwork • Leadership • Adaptability • Problem Solving • Time Management • Quick Learning
