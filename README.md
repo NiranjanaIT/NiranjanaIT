@@ -216,7 +216,7 @@ public class Niranjana {
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-mrniranjana.it%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mrniranjana.it@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Niranjana%20M%20R-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/niranjana-m-r)
+[![LinkedIn](https://www.linkedin.com/in/niranjana-m-r-791936294?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![LeetCode](https://img.shields.io/badge/LeetCode-250%2B%20Problems-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/mrniranjana)
 [![GitHub](https://img.shields.io/badge/GitHub-mrniranjana-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mrniranjana)
 
