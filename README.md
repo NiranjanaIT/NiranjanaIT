@@ -30,44 +30,19 @@
 
 ## 👨‍💻 Developer Snapshot
 
-```java
-public class Niranjana {
+## 💫 About Me
 
-    String name = "Niranjana M R";
+🎓 B.Tech Information Technology Student (2023–2027)
 
-    String role = "Aspiring Software Engineer";
+💻 Passionate about Software Development, AI, and Full Stack Development
 
-    String education =
-        "B.Tech Information Technology (2023-2027)";
+🚀 Building real-world applications using Java, Flutter, Node.js, and AI
 
-    String college =
-        "PSNA College of Engineering and Technology";
+🌱 Currently learning System Design, Advanced DSA, Cloud Computing, and AI Integration
 
-    double cgpa = 8.53;
+🏆 Winner of Government of Tamil Nadu AI Prompt Competition
 
-    String[] skills = {
-        "Java",
-        "DSA",
-        "Node.js",
-        "Express.js",
-        "MongoDB",
-        "MySQL",
-        "Flutter",
-        "Firebase",
-        "AI Integration"
-    };
-
-    String[] leadership = {
-        "Flutter Lead - GDG on Campus",
-        "Secretary - Math Club",
-        "Coordinator - BIS Student Chapter",
-        "Coordinator - Tamil Club"
-    };
-
-    String motto =
-        "Build impactful solutions through technology.";
-}
-```
+👥 Flutter Lead at GDG on Campus PSNACET
 
 ---
 
