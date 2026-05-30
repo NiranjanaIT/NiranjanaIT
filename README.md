@@ -24,35 +24,21 @@
 
 ---
 
-## ⚡ `whoami`
+## ⚡ `Who am i`
 
-```typescript
-const niranjana = {
-  name        : "Niranjana M R",
-  location    : "Tamil Nadu, India 🇮🇳",
-  degree      : "B.Tech Information Technology (2022–2026)",
-  college     : "PSNA College of Engineering and Technology",
-  cgpa        : 8.53,
+🎓 B.Tech Information Technology Student (2023–2027) at PSNA College of Engineering and Technology
 
-  stack       : ["Java", "JavaScript", "Node.js", "Express.js",
-                 "Flutter", "Firebase", "MongoDB", "MySQL",
-                 "AWS", "Google Cloud", "REST APIs"],
+📍 Tamil Nadu, India
 
-  currentFocus: ["System Design", "Advanced DSA",
-                 "LLM Integration", "Cloud Architecture"],
+💻 Passionate about Software Development, AI Applications, and Full Stack Development
 
-  wins        : [
-    "🏆 Govt of Tamil Nadu — AI Prompt Competition (₹4,000)",
-    "🥇 First Prize — Paper Presentation @ RAGEX'25",
-    "🔥 Smart India Hackathon 2024 & 2025 — Internal Winner"
-  ],
+🚀 Building real-world solutions using Java, Web Technologies, Flutter, and AI
 
-  philosophy  : () => "Build fast. Lead boldly. Ship things that matter.",
-};
-```
+🌱 Currently learning System Design, Advanced DSA, Cloud Computing, and AI Integration
 
----
+👥 Active student leader and community contributor
 
+🏆 Winner of Government of Tamil Nadu AI Prompt Competition
 ## 🛠️ Tech Arsenal
 
 <div align="center">
