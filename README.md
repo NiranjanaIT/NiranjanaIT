@@ -26,23 +26,6 @@
 
 🏆 Winner of Government of Tamil Nadu AI Prompt Competition
 
----
-
-## 👨‍💻 Developer Snapshot
-
-## 💫 About Me
-
-🎓 B.Tech Information Technology Student (2023–2027)
-
-💻 Passionate about Software Development, AI, and Full Stack Development
-
-🚀 Building real-world applications using Java, Flutter, Node.js, and AI
-
-🌱 Currently learning System Design, Advanced DSA, Cloud Computing, and AI Integration
-
-🏆 Winner of Government of Tamil Nadu AI Prompt Competition
-
-👥 Flutter Lead at GDG on Campus PSNACET
 
 ---
 
