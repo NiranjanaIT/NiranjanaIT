@@ -114,7 +114,7 @@
 
 | 🔥 Project | 🧩 Stack | 💡 What It Does |
 |:---|:---|:---|
-| **[DevCollab](https://github.com/mrniranjana)** — Dev Collaboration Platform | `Node.js` `Express` `MongoDB` `AI` | AI-assisted workflow, team management & real-time project coordination for developer squads |
+| **[DevCollab](https://github.com/niranjanaIT)** — Dev Collaboration Platform | `Node.js` `Express` `MongoDB` `AI` | AI-assisted workflow, team management & real-time project coordination for developer squads |
 | **[Raseed](https://github.com/mrniranjana)** — AI Financial Assistant | `JavaScript` `Firebase` `LLM APIs` | Personalized expense tracking with smart auto-categorization & financial insight engine |
 | **[Women Safety Monitor](https://github.com/mrniranjana)** | `Flutter` `Firebase` `IoT` | Emergency SOS alerts + environmental monitoring for real-time personal safety |
 | **[College Event Manager](https://github.com/mrniranjana)** | `Node.js` `MySQL` `HTML/CSS` | End-to-end campus event registration & student coordination web platform |
