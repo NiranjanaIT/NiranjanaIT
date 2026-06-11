@@ -28,7 +28,7 @@
 
 🎓 B.Tech Information Technology Student (2023–2027) at PSNA College of Engineering and Technology
 
-📍 Dindigul, Tamil Nadu.
+📍 Dindigul, Tamil Nadu
 
 💻 Passionate about Software Development, AI Applications, and Full Stack Development
 
