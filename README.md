@@ -211,7 +211,7 @@ $ cat learning_roadmap.txt
 | **Secretary** | Math Club, PSNACET |
 | **Coordinator** | BIS Student Chapter |
 | **Coordinator** | Tamil Club, PSNACET |
-| **Hackathon Coordinator** | GDG Hackathon |
+| **Hackathon Coordinator** | Inter College GDG Hackathon |
 
 </div>
 
