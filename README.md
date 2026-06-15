@@ -24,7 +24,7 @@
 
 ---
 
-## ⚡ `Who am i?`
+## ⚡ `Who am I?`
 
 🎓 B.Tech Information Technology Student (2023–2027) at PSNA College of Engineering and Technology
 
