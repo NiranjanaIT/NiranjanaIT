@@ -38,7 +38,7 @@
 
 👥 Active student leader and community contributor
 
-🏆 Winner of Government of Tamil Nadu AI Prompt Competition
+🏆 Winner of Government of Tamil Nadu AI Prompt Competition with 4K cash
 ## 🛠️ Tech Arsenal
 
 <div align="center">
