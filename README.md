@@ -223,7 +223,7 @@ $ cat learning_roadmap.txt
 
 | 📖 Degree | 🏛️ Institution | 📅 Year | ⭐ Score |
 |:---|:---|:---:|:---:|
-| B.Tech Information Technology | PSNA College of Engineering and Technology | 2022 – 2026 | **CGPA: 8.53** |
+| B.Tech Information Technology | PSNA College of Engineering and Technology | 2023 – 2027 | **CGPA: 8.53** |
 
 </div>
 
