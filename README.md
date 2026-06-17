@@ -36,7 +36,7 @@
 
 🌱 Currently learning System Design, Advanced DSA, Cloud Computing, and AI Integration
 
-👥 Active student leader and community contributor
+👥 Active student leader and open-source community contributor
 
 🏆 Winner of Government of Tamil Nadu AI Prompt Competition with 4K cash
 ## 🛠️ Tech Arsenal
