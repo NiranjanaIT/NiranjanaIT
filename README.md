@@ -210,7 +210,7 @@ $ cat learning_roadmap.txt
 | **Flutter Lead** | GDG on Campus PSNACET |
 | **Secretary** | Math Club, PSNACET |
 | **Coordinator** | BIS Student Chapter |
-| **Coordinator** | Tamil Club, PSNACET |
+| **Coordinator** | Tamil Forum, PSNACET |
 | **Hackathon Coordinator** | Inter College GDG Hackathon |
 
 </div>
