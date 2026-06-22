@@ -26,7 +26,7 @@
 
 ## ⚡ `Who am I?`
 
-🎓 B.Tech Information Technology Student (2023–2027) at PSNA College of Engineering and Technology
+🎓 B.Tech Information Technology Student at PSNA College of Engineering and Technology of batch 2023–2027
 
 📍 Dindigul, Tamil Nadu
 
