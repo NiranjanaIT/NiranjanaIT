@@ -159,7 +159,7 @@
 |:---:|:---|:---|
 | 🥇 | **First Prize — Paper Presentation** | RAGEX'25 · ROBO Club · ECE Department |
 | 🏆 | **Winner — AI Prompt Competition** | Government of Tamil Nadu · Prize: ₹4,000 |
-| 🔥 | **Smart India Hackathon Winner** | SIH 2024 & SIH 2025 · Internal Rounds |
+| 🔥 | **Smart India Hackathon Winner** | SIH 2024 & SIH 2025 · Internal Rounds College Level |
 | 💻 | **250+ Problems Solved** | LeetCode + CodeChef Combined |
 | 📜 | **15+ Industry Certifications** | AI, ML, GenAI, NLP, Cloud, Flutter, Full Stack |
 | 🎯 | **Active Hackathon Participant** | Technical events, workshops & coding contests |
