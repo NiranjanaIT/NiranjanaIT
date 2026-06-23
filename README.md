@@ -201,7 +201,7 @@ $ cat learning_roadmap.txt
 
 ---
 
-## 👑 Leadership & Community
+## 👑 Leadership & Community :
 
 <div align="center">
 
