@@ -32,7 +32,7 @@
 
 💻 Passionate about Software Development, AI Applications, and Full Stack Development
 
-🚀 Building real-world solutions using Java, Web Technologies, Flutter, and AI
+🚀 Building real-world solutions using Java, Web Technologies, Flutter and AI
 
 🌱 Currently learning System Design, Advanced DSA, Cloud Computing, and AI Integration
 
