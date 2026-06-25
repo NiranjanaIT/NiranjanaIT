@@ -34,7 +34,7 @@
 
 🚀 Building real-world solutions using Java, Web Technologies, Flutter and AI
 
-🌱 Currently learning System Design, Advanced DSA, Cloud Computing, and AI Integration
+🌱 Currently learning System Design, Advanced DSA, Cloud Computing and AI Integration
 
 👥 Active student leader and open-source community contributor
 
