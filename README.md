@@ -123,7 +123,7 @@
 
 ---
 
-## 💼 Work Experience
+## 💼 Work Experiences
 
 <details>
 <summary><b>🎨 CodSoft — UI/UX Design Intern</b> &nbsp;|&nbsp; Jul 2024 – Aug 2024</summary>
